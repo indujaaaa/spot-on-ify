@@ -12,6 +12,9 @@ Playlist Recommendation App based on Spotify Web API
 
 ❗ Your Client ID and Client Secret are to be highly confidential. Do not make it public at any costs. ❗
 
-### To run the app:
+### Running the app:
 - Clone this repo to your system.
-- Navigate to `config.py` and replace the 
+- Navigate to `config.py` and replace the CLIENT_ID and CLIENT_SECRET with the values in your app dashboard.
+      - Copy the `Client ID` from the dashboard, paste it in place of "YOUR_CLIENT_ID" enclosed by quotes.
+      - Click on `Show Client Secret` to reveal your `Client Secret` and replace "YOUR_CLIENT_SECRET" with your string.
+- Run `main.py`.
