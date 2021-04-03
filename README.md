@@ -4,7 +4,7 @@ Playlist Recommendation App based on Spotify Web API
 ## Setup
 
 ### Setting up the Spotify Web API
-- Head to developer.spotify.com and Login with your Spotify.
+- Head to ![developer.spotify.com](developer.spotify.com) and Login with your Spotify.
 - Once redirected to your Dashboard, Click on 'Create and App'.
 - Register your app by giving it a name and a description and confirm.
 - In your app dashboard, copy the `Client ID` and paste it in the respective field in `config.py`.
